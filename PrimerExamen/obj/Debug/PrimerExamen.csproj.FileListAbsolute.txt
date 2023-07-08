@@ -1,0 +1,8 @@
+C:\Users\momes\source\repos\PrimerExamen\PrimerExamen\obj\Debug\PrimerExamen.csproj.AssemblyReference.cache
+C:\Users\momes\source\repos\PrimerExamen\PrimerExamen\obj\Debug\PrimerExamen.csproj.SuggestedBindingRedirects.cache
+C:\Users\momes\source\repos\PrimerExamen\PrimerExamen\obj\Debug\PrimerExamen.csproj.CoreCompileInputs.cache
+C:\Users\momes\source\repos\PrimerExamen\PrimerExamen\bin\Debug\PrimerExamen.exe.config
+C:\Users\momes\source\repos\PrimerExamen\PrimerExamen\bin\Debug\PrimerExamen.exe
+C:\Users\momes\source\repos\PrimerExamen\PrimerExamen\bin\Debug\PrimerExamen.pdb
+C:\Users\momes\source\repos\PrimerExamen\PrimerExamen\obj\Debug\PrimerExamen.exe
+C:\Users\momes\source\repos\PrimerExamen\PrimerExamen\obj\Debug\PrimerExamen.pdb
